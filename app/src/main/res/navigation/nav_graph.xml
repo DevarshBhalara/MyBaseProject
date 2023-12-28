@@ -6,9 +6,9 @@
     android:id="@+id/nav_graph.xml">
 
     <fragment
-        android:name="com.example.mybaseproject.ui.fragment.FragmentHomeScreen"
-        tools:layout="@layout/fragment_home_screen"
-        android:label="Bhagavad Geeta"
+        android:name="com.example.mybaseproject.ui.fragment.BlankFragment"
+        tools:layout="@layout/fragment_blank"
+        android:label="Title"
         android:id="@+id/homeFragment" />
 
 </navigation>
